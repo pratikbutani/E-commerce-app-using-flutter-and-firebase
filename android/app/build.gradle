@@ -39,7 +39,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.himanshuchauhan.app_frontend"
+        applicationId 'com.swastikapps.ecommerce.app'
         minSdkVersion 18
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
@@ -55,6 +55,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    buildToolsVersion '28.0.3'
 }
 
 flutter {

@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "743971646621",
+    "firebase_url": "https://swastik-e-commerce-app.firebaseio.com",
+    "project_id": "swastik-e-commerce-app",
+    "storage_bucket": "swastik-e-commerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743971646621:android:f0484337022838e8633874",
+        "android_client_info": {
+          "package_name": "com.swastik.saviselection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743971646621-brfubk5m334paqckg3uvbkqf2et180q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swastik.saviselection",
+            "certificate_hash": "fb83312c1107d0f2242da2ce611819a918f2593d"
+          }
+        },
+        {
+          "client_id": "743971646621-ll1bofvumndhrim06psmpu14bcmvpq2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA93Cid29F7k1PkqEhyNKjXcaN1ETLhvTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743971646621-ll1bofvumndhrim06psmpu14bcmvpq2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743971646621:android:9409f075f7e7f8dd633874",
+        "android_client_info": {
+          "package_name": "com.swastikapps.ecommerce.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743971646621-ll1bofvumndhrim06psmpu14bcmvpq2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA93Cid29F7k1PkqEhyNKjXcaN1ETLhvTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743971646621-ll1bofvumndhrim06psmpu14bcmvpq2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
